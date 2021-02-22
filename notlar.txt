@@ -1,0 +1,2 @@
+Projemizi mvc yapısı ile yazmaya çalışacağız.Express herhangi bir şey 
+dayatmıyor. 
